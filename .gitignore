@@ -1,0 +1,19 @@
+# Maven target folder
+/target/
+
+# Eclipse/IDEA/VSCode files
+*.iml
+*.idea/
+*.classpath
+*.project
+*.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jetty / temporary files
+jetty/
